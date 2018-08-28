@@ -1,0 +1,9 @@
+C:\Users\Kevin\Desktop\GhostBinUploaderClass\bin\Debug\GhostBinUploaderClass.exe.config
+C:\Users\Kevin\Desktop\GhostBinUploaderClass\bin\Debug\GhostBinUploaderClass.exe
+C:\Users\Kevin\Desktop\GhostBinUploaderClass\bin\Debug\GhostBinUploaderClass.pdb
+C:\Users\Kevin\Desktop\GhostBinUploaderClass\obj\Debug\GhostBinUploaderClass.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\GhostBinUploaderClass\obj\Debug\GhostBinUploaderClass.Properties.Resources.resources
+C:\Users\Kevin\Desktop\GhostBinUploaderClass\obj\Debug\GhostBinUploaderClass.UI.Forms.MainForm.resources
+C:\Users\Kevin\Desktop\GhostBinUploaderClass\obj\Debug\GhostBinUploaderClass.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\GhostBinUploaderClass\obj\Debug\GhostBinUploaderClass.exe
+C:\Users\Kevin\Desktop\GhostBinUploaderClass\obj\Debug\GhostBinUploaderClass.pdb
